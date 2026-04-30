@@ -147,5 +147,3 @@ The LED blinks on and off with the specified delays (4 seconds ON, 2 seconds OFF
 Interfacing a digital output with ARM microcontroller-based IoT development board was successfully executed and the results were verified. The LED blinks as expected with the configured timing intervals.
 
 ---
-
-**Conclusion:** This experiment demonstrates the fundamental concepts of interfacing a GPIO (General Purpose Input/Output) pin on an ARM-based microcontroller with an LED and controlling it through C code. This is a foundational skill for embedded systems and IoT development.
